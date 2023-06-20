@@ -1,4 +1,4 @@
-package mandatoryHomeWork.Week4.Day5;
+package mandatoryHomeWork.week4.day5;
 
 import java.util.LinkedList;
 

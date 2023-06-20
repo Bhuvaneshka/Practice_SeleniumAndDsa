@@ -1,5 +1,5 @@
 
-package mandatoryHomeWork.Week5.Day5;
+package mandatoryHomeWork.week5.day5;
 
 import java.util.Stack;
 

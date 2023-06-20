@@ -1,4 +1,4 @@
-package mandatoryHomeWork.Week6.Day5;
+package mandatoryHomeWork.week6.day5;
 
 public class ClassRoom_HackerrankMariaGame {
 

@@ -1,4 +1,4 @@
-package mandatoryHomeWork.Week3.Day1;
+package mandatoryHomeWork.week3.day1;
 
 import javax.management.BadAttributeValueExpException;
 

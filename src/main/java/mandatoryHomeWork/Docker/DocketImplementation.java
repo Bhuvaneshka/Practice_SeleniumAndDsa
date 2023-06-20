@@ -1,4 +1,4 @@
-package mandatoryHomeWork.Docker;
+package mandatoryHomeWork.docker;
 
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;

@@ -1,4 +1,4 @@
-package mandatoryHomeWork.Week8;
+package mandatoryHomeWork.week8;
 
 import java.util.HashMap;
 import java.util.Iterator;

@@ -1,4 +1,4 @@
-package mandatoryHomeWork.Week4.Day4;
+package mandatoryHomeWork.week4.day4;
 
 public class ReverseLinkedList {
 	/*

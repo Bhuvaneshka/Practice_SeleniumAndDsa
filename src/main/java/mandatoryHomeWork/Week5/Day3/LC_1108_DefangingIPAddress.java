@@ -1,4 +1,4 @@
-package mandatoryHomeWork.Week5.Day3;
+package mandatoryHomeWork.week5.day3;
 
 import org.junit.Test;
 

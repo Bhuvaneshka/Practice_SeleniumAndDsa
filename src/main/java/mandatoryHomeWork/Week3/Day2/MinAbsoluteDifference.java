@@ -1,4 +1,4 @@
-package mandatoryHomeWork.Week3.Day2;
+package mandatoryHomeWork.week3.day2;
 
 import java.util.ArrayList;
 import java.util.Arrays;

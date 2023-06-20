@@ -1,4 +1,4 @@
-package mandatoryHomeWork.Selenium;
+package mandatoryHomeWork.selenium;
 
 import java.util.ArrayList;
 import java.util.Set;
