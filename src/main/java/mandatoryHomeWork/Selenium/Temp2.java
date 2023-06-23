@@ -27,10 +27,8 @@ public class Temp2 {
 		long tempMin = 0;
 		if(mins1> 30)
 		{
-			
 			tempHr = hour1+1;
 			tempMin = 00;
-			
 		}
 		else {
 			tempHr = hour1;
