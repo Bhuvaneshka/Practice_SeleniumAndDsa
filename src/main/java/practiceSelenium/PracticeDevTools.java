@@ -1,4 +1,4 @@
-package mandatoryHomeWork.selenium;
+package practiceSelenium;
 import java.util.Optional;
 
 import org.openqa.selenium.WebDriver;

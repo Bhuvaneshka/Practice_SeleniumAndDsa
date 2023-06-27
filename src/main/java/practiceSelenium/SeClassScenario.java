@@ -1,4 +1,4 @@
-package mandatoryHomeWork.selenium;
+package practiceSelenium;
 import java.awt.Window;
 import java.util.List;
 import java.util.Set;

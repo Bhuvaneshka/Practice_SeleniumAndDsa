@@ -1,4 +1,4 @@
-package mandatoryHomeWork.selenium;
+package practiceSelenium;
 import java.util.List;
 import java.util.Random;
 import java.util.concurrent.TimeUnit;
