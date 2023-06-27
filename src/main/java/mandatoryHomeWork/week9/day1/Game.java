@@ -6,7 +6,7 @@ import java.util.List;
 
 import org.junit.Test;
 
-public class GameOfTwoStacks {
+public class Game {
 //	https://www.hackerrank.com/challenges/game-of-two-stacks/problem
 
 	@Test

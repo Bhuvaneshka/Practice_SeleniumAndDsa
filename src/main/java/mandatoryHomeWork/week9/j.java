@@ -1,5 +1,5 @@
 package mandatoryHomeWork.week9;
 
-public class T {
+public class j {
 
 }

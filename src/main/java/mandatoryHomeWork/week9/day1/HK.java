@@ -8,7 +8,7 @@ import java.util.Map;
 
 import org.junit.Test;
 
-public class HK_SparseArrays {
+public class HK {
 
 //	https://www.hackerrank.com/challenges/sparse-arrays/problem
 
