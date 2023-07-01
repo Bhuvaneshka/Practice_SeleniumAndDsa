@@ -14,7 +14,7 @@ public class LC_443_StringCompression {
 	 * variable 
 	 * 5) else and append the count in str and reset the counter = 1
 	 * 
-	 * Time Complexity : O(n) Space Complexity : O(0)
+	 * Time Complexity : O(n) Space Complexity : O(1)
 	 */
 
 	@Test
@@ -38,7 +38,7 @@ public class LC_443_StringCompression {
 				if(counter > 1)
 				{
 					String tempStr = String.valueOf(counter);
-					for(char c : tempStr.toCharArray())
+					for(char c : tempStr.toCharArray()) 
 					{
 						s[index++] = c;
 					}

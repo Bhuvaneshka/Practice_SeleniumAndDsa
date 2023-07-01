@@ -13,20 +13,29 @@ public class RingsAndRods {
 	public void example1()
 	{
 		String rings = "B0B6G0R6R0R6G9";
-		findRodWithAllColours(rings);
+		countPoints(rings);
 	}
 
-	private void findRodWithAllColours(String rings) {
-		Set<Character> uniqueValue = new HashSet(); 
-		
-		Map<Integer,Set<Character> > ringAndRod = new HashMap<>();
-		for (int i = 0; i < rings.length(); i=i+2) {
-			char colour = rings.charAt(i);
-			char rods = rings.charAt(i+1);
-//			B0B6G0R6R0R6G9
-			
-			//if()
-		}
+	public int countPoints(String rings) {
+	    Map<Character, Set<Character>> cmap = new HashMap<>();
+	    Set<Character> rodsWithAllColors = new HashSet<>();
+
+	    for (int i = 0; i < rings.length(); i += 2) {
+	        char color = rings.charAt(i);
+	        char rod = rings.charAt(i + 1);
+
+	        if (!cmap.containsKey(rod)) {
+	        	cmap.put(rod, rodsWithAllColors);
+	        }
+	        
+	        cmap.get(rod).add(color);
+
+	        if (cmap.get(rod).size() == 3) {
+	            rodsWithAllColors.add(rod);
+	        }
+	    }
+
+	    return rodsWithAllColors.size();
 	}
 	
 }
